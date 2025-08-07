@@ -1,0 +1,2 @@
+git init
+Reinitialized existing Git repository in /home/vikash/Desktop/Git Folders/Distance-Finder/.git/

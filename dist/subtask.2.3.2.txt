@@ -1,0 +1,18 @@
+git status
+On branch manhattan
+nothing to commit, working tree clean
+
+_____________________
+
+git log
+commit 43795b28619440119b5f1b11d9adab98733f5b7e (HEAD -> manhattan, origin/master, origin/HEAD, master)
+Author: vikash.k <viratvikash151@gmail.com>
+Date:   Thu Aug 7 18:41:15 2025 +0530
+
+    Distance file added
+
+commit 33601f77441be4aed74509f501fc0a66e3c8bc4f
+Author: DevProdigy <62100803+viserion999@users.noreply.github.com>
+Date:   Thu Aug 7 17:19:03 2025 +0530
+
+    Initial commit

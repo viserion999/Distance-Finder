@@ -1,0 +1,14 @@
+git diff
+diff --git a/dist/distance.c b/dist/distance.c
+index 1239920..ef600c5 100644
+--- a/dist/distance.c
++++ b/dist/distance.c
+@@ -4,7 +4,7 @@
+ 
+ 
+ double distance (Point p1, Point p2){
+-    double distance = sqrt((p2.x - p1.x)*(p2.x - p1.x) + (p2.y - p1.y)*(p2.y - p1.y));
++    double distance = abs(p1.x - p2.x) + abs(p1.y - p2.y);
+ }
+ 
+ int main(){

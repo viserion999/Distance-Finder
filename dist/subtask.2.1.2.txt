@@ -1,0 +1,12 @@
+git add .
+vikash@vikash-Inspiron-5570:~/Desktop/Git Folders/Distance-Finder$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        renamed:    README.md -> dist/README.md
+        new file:   dist/distance
+        new file:   dist/distance.c
+        new file:   dist/point.h
+        new file:   dist/subtask.2.1.1.txt

@@ -1,0 +1,6 @@
+git status
+On branch manhattan
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   dist/distance.c
+

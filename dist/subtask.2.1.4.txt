@@ -1,9 +1,8 @@
-git push origin master
-Enumerating objects: 8, done.
-Counting objects: 100% (8/8), done.
-Delta compression using up to 8 threads
-Compressing objects: 100% (6/6), done.
-Writing objects: 100% (7/7), 3.46 KiB | 3.46 MiB/s, done.
-Total 7 (delta 0), reused 0 (delta 0), pack-reused 0
-To https://github.com/viserion999/Distance-Finder.git
-   33601f7..43795b2  master -> master
+git commit -m "Distance file added"
+[master 43795b2] Distance file added
+ 5 files changed, 34 insertions(+)
+ rename README.md => dist/README.md (100%)
+ create mode 100755 dist/distance
+ create mode 100644 dist/distance.c
+ create mode 100644 dist/point.h
+ create mode 100644 dist/subtask.2.1.1.txt

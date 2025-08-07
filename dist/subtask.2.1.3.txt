@@ -1,8 +1,12 @@
-git commit -m "Distance file added"
-[master 43795b2] Distance file added
- 5 files changed, 34 insertions(+)
- rename README.md => dist/README.md (100%)
- create mode 100755 dist/distance
- create mode 100644 dist/distance.c
- create mode 100644 dist/point.h
- create mode 100644 dist/subtask.2.1.1.txt
+git status
+
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        renamed:    README.md -> dist/README.md
+        new file:   dist/distance
+        new file:   dist/distance.c
+        new file:   dist/point.h
+        new file:   dist/subtask.2.1.1.txt
